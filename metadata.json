@@ -1,0 +1,6 @@
+{
+  "name": "Your Flights LLC",
+  "description": "Consulting planning consulting and assistance services. Fully compliant with Stripe MCC 7399.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Environment variables (NEVER commit passwords)
+.env
+.env.local
+.env.production
+
+# Build output - we commit dist/ so Hostinger doesn't need to rebuild
+# dist/   <-- intentionally NOT ignored
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Temporary scripts
+fix_glitches.cjs
+fix_translations.cjs
+fix_ts.cjs
+replace.js
+replace_strings.cjs
+scratch/

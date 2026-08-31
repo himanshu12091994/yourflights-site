@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <!-- 1. Home -->
+  <url>
+    <loc>https://yourflightsllc.com/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yourflightsllc.com/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://yourflightsllc.com/es/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://yourflightsllc.com/" />
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- 2. Custom Itineraries Advisory ($150 - MCC 7299) -->
+  <url>
+    <loc>https://yourflightsllc.com/custom-itineraries</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yourflightsllc.com/custom-itineraries" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://yourflightsllc.com/es/custom-itineraries" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://yourflightsllc.com/custom-itineraries" />
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- 3. Destination Research & Intelligence Report ($75 - MCC 8999) -->
+  <url>
+    <loc>https://yourflightsllc.com/destination-research</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yourflightsllc.com/destination-research" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://yourflightsllc.com/es/destination-research" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://yourflightsllc.com/destination-research" />
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- 4. Pre-Departure Preparation Advisory ($50 - MCC 8999) -->
+  <url>
+    <loc>https://yourflightsllc.com/travel-prep</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yourflightsllc.com/travel-prep" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://yourflightsllc.com/es/travel-prep" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://yourflightsllc.com/travel-prep" />
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- 5. Request Assistance / 30-Min Discovery Session -->
+  <url>
+    <loc>https://yourflightsllc.com/request-assistance</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yourflightsllc.com/request-assistance" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://yourflightsllc.com/es/request-assistance" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://yourflightsllc.com/request-assistance" />
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 6. Travel Guides & Advisory Articles -->
+  <url>
+    <loc>https://yourflightsllc.com/guides</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yourflightsllc.com/guides" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://yourflightsllc.com/es/guides" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://yourflightsllc.com/guides" />
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- 7. About Us -->
+  <url>
+    <loc>https://yourflightsllc.com/about</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yourflightsllc.com/about" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://yourflightsllc.com/es/about" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://yourflightsllc.com/about" />
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 8. Contact Us -->
+  <url>
+    <loc>https://yourflightsllc.com/contact</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yourflightsllc.com/contact" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://yourflightsllc.com/es/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://yourflightsllc.com/contact" />
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 9. Terms of Service (MCC 7299 / 8999 Governance) -->
+  <url>
+    <loc>https://yourflightsllc.com/terms</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yourflightsllc.com/terms" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://yourflightsllc.com/es/terms" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://yourflightsllc.com/terms" />
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- 10. Privacy Policy (PCI-DSS & Stripe Disclosures) -->
+  <url>
+    <loc>https://yourflightsllc.com/privacy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yourflightsllc.com/privacy" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://yourflightsllc.com/es/privacy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://yourflightsllc.com/privacy" />
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- 11. Refund & Cancellation Policy (24-Hour Guarantee) -->
+  <url>
+    <loc>https://yourflightsllc.com/refund-policy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yourflightsllc.com/refund-policy" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://yourflightsllc.com/es/refund-policy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://yourflightsllc.com/refund-policy" />
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- 12. MCC 7299 / 8999 Merchant Compliance Statement -->
+  <url>
+    <loc>https://yourflightsllc.com/compliance</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yourflightsllc.com/compliance" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://yourflightsllc.com/es/compliance" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://yourflightsllc.com/compliance" />
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>

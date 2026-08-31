@@ -1,0 +1,29 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /admin/
+Disallow: /api/
+Disallow: /checkout/
+Disallow: /cart/
+
+User-agent: Googlebot
+Allow: /
+Disallow: /admin
+Disallow: /api/
+
+User-agent: Storebot-Google
+Allow: /
+Disallow: /admin
+Disallow: /api/
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+Disallow: /admin
+Disallow: /api/
+
+Sitemap: https://yourflightsllc.com/sitemap.xml
+Host: https://yourflightsllc.com
+
